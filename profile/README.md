@@ -14,8 +14,8 @@ Fingerstyle Taiwan was established on March 1, 2015. At first, it was only a Fac
 ### 🦦 Contributing to the projects.
 
 
-- [Frontend/Next.js](https://github.com/cli/cli) - A command line tool for GitHub
-- [Backend/Django](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
+- [Frontend/Next.js](https://github.com/cli/cli) 
+- [Backend/Django](https://github.com/git-lfs/git-lfs) 
 
 
 ### 👓 Appendix
