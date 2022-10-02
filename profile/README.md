@@ -27,6 +27,6 @@ See what's next on our public roadmap ✨ and let us know if you have any sugges
 ---
 
 <sub>Sincerely, 
-Founder Jian-an, Lin :man_dancing: 
+Founder [Jian-an, Lin](https://www.facebook.com/Linjianan1104/) :man_dancing: 
 </sub>
 
