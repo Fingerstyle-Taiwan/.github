@@ -14,8 +14,8 @@ Fingerstyle Taiwan was established on March 1, 2015. At first, it was only a Fac
 ### 🦦 Contributing to the projects.
 
 
-- [Frontend/Next.js](https://github.com/cli/cli) 
-- [Backend/Django](https://github.com/git-lfs/git-lfs) 
+- [Frontend/Next.js](https://github.com/Fingerstyle-Taiwan/nextjs-frontend) 
+- [Backend/Django](https://github.com/Fingerstyle-Taiwan/django-backend) 
 
 
 ### 👓 Appendix
